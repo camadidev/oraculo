@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "emociones": [
     {"nombre":"feliz","efecto":"sumar_1","descripcion":"Pequeno aumento por clareza e abertura."},
     {"nombre":"triste","efecto":"restar_1","descripcion":"Pequena queda que integra a emoção."},
@@ -66,4 +66,5 @@
     {"categoria":"otro","nombre":"estrela","simbolo":"Esperança","mensaje":"Simboliza guia, destino e sonhos.","sinonimos":["céu","brilho","destino"],"modificador":"sumar_2"}
   ]
 }
+
 
