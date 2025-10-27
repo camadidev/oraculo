@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "emociones": [
     {"nombre":"feliz","efecto":"sumar_1","descripcion":"Ligero aumento por claridad y apertura."},
     {"nombre":"triste","efecto":"restar_1","descripcion":"Pequeña caída que invita a integrar la emoción."},
@@ -30,7 +30,7 @@
     {"categoria":"animal","nombre":"abeja","simbolo":"Trabajo","mensaje":"Simboliza esfuerzo colectivo.","sinonimos":["colmena","zumbido","miel"],"modificador":"multiplicar_2"},
     {"categoria":"animal","nombre":"zorro","simbolo":"Astucia","mensaje":"Habla de inteligencia práctica.","sinonimos":["raposa","astuto","salvaje"],"modificador":"espejo_base"},
 
-    {"categoria":"lugar","nombre":"casa","simbolo":"Seguridad","mensaje":"Refleja el mundo interior y la necesidad de refugio.","sinonimos":["hogar","vivienda","morada"],"modificador":"sumar_2"},
+    {"categoria":"lugar","nombre":"casa","simbolo":"Seguridad","mensaje":"Refleja el mundo interior y la necesidad de un refugio.","sinonimos":["hogar","vivienda","morada"],"modificador":"sumar_2"},
     {"categoria":"lugar","nombre":"bosque","simbolo":"Exploración","mensaje":"Invita a perderse para encontrarse.","sinonimos":["árboles","selva","ramas"],"modificador":"impar"},
     {"categoria":"lugar","nombre":"montaña","simbolo":"Desafío","mensaje":"Evoca obstáculos y logros.","sinonimos":["pico","cumbre","cerro"],"modificador":"multiplicar_2"},
     {"categoria":"lugar","nombre":"mar","simbolo":"Inconsciente","mensaje":"Refleja emociones profundas y vastedad.","sinonimos":["océano","olas","playa"],"modificador":"espejo_base"},
@@ -66,4 +66,5 @@
     {"categoria":"otro","nombre":"estrella","simbolo":"Esperanza","mensaje":"Simboliza guía, destino y sueños.","sinonimos":["cielo","brillo","destino"],"modificador":"sumar_2"}
   ]
 }
+
 
