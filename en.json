@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "emociones": [
     {"nombre":"feliz","efecto":"sumar_1","descripcion":"Slight increase due to clarity and openness."},
     {"nombre":"triste","efecto":"restar_1","descripcion":"Small decrease inviting emotional integration."},
@@ -30,7 +30,7 @@
     {"categoria":"animal","nombre":"bee","simbolo":"Work","mensaje":"Symbolizes collective effort.","sinonimos":["hive","honey","buzz"],"modificador":"multiplicar_2"},
     {"categoria":"animal","nombre":"fox","simbolo":"Cunning","mensaje":"Speaks of practical intelligence.","sinonimos":["vulpine","clever","wild"],"modificador":"espejo_base"},
 
-    {"categoria":"lugar","nombre":"house","simbolo":"Safety","mensaje":"Mirrors inner life and need for refuge.","sinonimos":["home","dwelling","abode"],"modificador":"sumar_2"},
+    {"categoria":"lugar","nombre":"house","simbolo":"Safety","mensaje":"Mirrors inner life and need for a refuge.","sinonimos":["home","dwelling","abode"],"modificador":"sumar_2"},
     {"categoria":"lugar","nombre":"forest","simbolo":"Exploration","mensaje":"Invites getting lost to find oneself.","sinonimos":["woods","trees","grove"],"modificador":"impar"},
     {"categoria":"lugar","nombre":"mountain","simbolo":"Challenge","mensaje":"Evokes obstacles and achievements.","sinonimos":["peak","summit","hill"],"modificador":"multiplicar_2"},
     {"categoria":"lugar","nombre":"sea","simbolo":"Unconscious","mensaje":"Reflects deep emotions and vastness.","sinonimos":["ocean","waves","beach"],"modificador":"espejo_base"},
@@ -61,4 +61,5 @@
     {"categoria":"otro","nombre":"shadow","simbolo":"Unconscious","mensaje":"Speaks of what is hidden and repressed.","sinonimos":["dark","shade","penumbra"],"modificador":"impar"}
   ]
 }
+
 
