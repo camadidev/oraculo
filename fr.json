@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "emociones": [
     {"nombre":"feliz","efecto":"sumar_1","descripcion":"Gain léger de clarté et d'ouverture."},
     {"nombre":"triste","efecto":"restar_1","descripcion":"Petite baisse pour intégrer l'émotion."},
@@ -66,4 +66,5 @@
     {"categoria":"otro","nombre":"étoile","simbolo":"Espoir","mensaje":"Symbolise guide, destin et rêves.","sinonimos":["ciel","brillance","destin"],"modificador":"sumar_2"}
   ]
 }
+
 
